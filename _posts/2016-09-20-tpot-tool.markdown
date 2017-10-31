@@ -4,7 +4,7 @@ title:      "TPOT：机器学习傻瓜式工作流"
 subtitle:   " \"TPOT: Data Mining Pipeline\""
 date:       2016-9-20 12:00:00
 author:     "Finlay"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/home-bg-o.jpg"
 catalog: true
 tags:
     - 数据挖掘

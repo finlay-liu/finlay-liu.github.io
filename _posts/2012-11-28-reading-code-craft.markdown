@@ -4,7 +4,7 @@ title:      "读《编程匠艺》有感"
 subtitle:   " \"Reading Code Craft\""
 date:       2012-11-28 12:00:00
 author:     "Finlay"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post-bg-rwd.jpg"
 catalog: true
 tags:
     - 读书

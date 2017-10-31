@@ -4,7 +4,7 @@ title:      "Hello Blog"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2017-10-31 12:00:00
 author:     "Hux"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post-bg-sunrise2.png"
 catalog: true
 tags:
     - 博客

@@ -4,7 +4,7 @@ title:      " Kaggle - Allstate Claims Severity 总结"
 subtitle:   " \" Kaggle - Allstate Claims Severity Note\""
 date:       2016-12-23 12:00:00
 author:     "Finlay"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post-bg-fly.jpg"
 catalog: true
 
 tags:
