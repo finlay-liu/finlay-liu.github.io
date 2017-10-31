@@ -207,7 +207,7 @@
 <script type="text/javascript">
     function generateCatalog (selector) {
 
-        // interop with multilangual 
+        // interop with multilangual
         if ({{ page.multilingual }}) {
             _containerSelector = 'div.post-container.active'
         } else {
@@ -297,7 +297,7 @@
             $en.style.display = "none";
             $en.classList.remove("active");
         }
-        // interop with catalog 
+        // interop with catalog
         if ("{{ page.catalog }}") generateCatalog(".catalog-body");
     }
 
@@ -314,4 +314,6 @@
     // init
     _render();
 </script>
+
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1254368110'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1254368110%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
 {% endif %}
