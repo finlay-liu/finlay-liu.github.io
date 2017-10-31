@@ -40,6 +40,7 @@ Hux 的 Blog 就这么开通了。
 
 其优点非常明显：
 
+$$a^b$$
 * **Markdown** 带来的优雅写作体验
 * 非常熟悉的 Git workflow ，**Git Commit 即 Blog Post**
 * 利用 GitHub Pages 的域名和免费无限空间，不用自己折腾主机
