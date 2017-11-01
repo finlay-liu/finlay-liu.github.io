@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "TPOT：机器学习傻瓜式工作流"
+title:      "TPOT：机器学习傻瓜工作流"
 subtitle:   " \"TPOT: Data Mining Pipeline\""
 date:       2016-9-20 12:00:00
 author:     "Finlay"
