@@ -12,7 +12,7 @@ tags:
 
 # ch1 用Pythonic的方式来思考
 
-1. 确认自己使用的Python版本
+## 确认自己使用的Python版本
 
 ```python
 # 在shell
@@ -29,7 +29,7 @@ print(sys.version)
 - 运行代码时，确认系统的Python版本和代码是否相符合；
 - 如果可能优先使用Python3；
 
-2. 遵循PEP8风格指南
+## 遵循PEP8风格指南
 
 英文：https://www.python.org/dev/peps/pep-0008/
 
@@ -60,7 +60,7 @@ print(sys.version)
   - 引入模块尽量使用绝对名称；
   - 使用三个部门来`import`库，分别是标准库、第三方库和自用模块；
 
-3. 了解`bytes`、`str`和`unicode`区别
+## 了解`bytes`、`str`和`unicode`区别
 
 Python3中有两种表示字符序列的类型：`bytes`和`str`，前者实例包括原始的8位值，后者实例包含`unicode`字符。Python2也有两种表示字符序列的类型：`str`和`unicode`，前者实例包括原始的8位值，后者实例包含`unicode`字符。
 
@@ -68,16 +68,16 @@ Python3的`str`实例和Python2的`unicode`实例并没有特定的二进制编�
 
 编写程序时，一定要把编码和解码操作放在最外围来操作，程序的核心代码应该使用Unicode字符类型，而不要对字符编码做任何假设。
 
-4. 用辅助函数来渠道复杂的表达式
+## 用辅助函数来渠道复杂的表达式
 
 表达式如果比较复杂，可以考虑将其拆解，并将逻辑转换成辅助函数。
 
-5. 了解切片的使用方法
+## 了解切片的使用方法
 
 在进行切片时，不要写多余的代码；切片也不会计较是够越界；切片会产生一份全新的列表。
 
-6. 不要在单次切片操作内同时指定`start`、`end`和`stride`
-7. 使用列表推导来取代`map`和`filter`
+## 不要在单次切片操作内同时指定`start`、`end`和`stride`
+## 使用列表推导来取代`map`和`filter`
 
 ```python
 a = range(10)
@@ -92,11 +92,11 @@ even_squares = [x**2 for x in a if x % 2 == 0]
 even_squares = map(lambda x: x**2, filter(lamda x: x % 2 == 0, a))
 ```
 
-8. 不要使用含有两个以上的表达式的列表推导
+## 不要使用含有两个以上的表达式的列表推导
 
 列别推导支持多级循环，每一级循环也支持多项条件。超过两个表达式的列表推导是很难理解的。
 
-9. 用生成器表达式来改写而数据量大的列表推导
+## 用生成器表达式来改写而数据量大的列表推导
 
 ```python
 # 列表推导
@@ -106,11 +106,11 @@ it = (len(x) for x in open('/tmp/tmp_file.tex'))
 print(it), print(next(it))
 ```
 
-10. 尽量使用`enumerate`取代`range`
-11. 用`zip`同时遍历两个迭代器
-12. 不要在`for`和`while`循环后面写`else`块
+## 尽量使用`enumerate`取代`range`
+## 用`zip`同时遍历两个迭代器
+## 不要在`for`和`while`循环后面写`else`块
 
-```Python
+```python
 # else也会执行
 for i in range(3):
     print(i)
@@ -132,13 +132,13 @@ else:
     print('else')
 ```
 
-13. 合理利用`try/except/else/finally`结构中的每个代码块
+## 合理利用`try/except/else/finally`结构中的每个代码块
 
 - `finally`块
 
   如果一场异常要向上传播，又要在异常发生时执行清理工作。
 
-  ```Python
+  ```python
   handle = open('/tmp/tmp_file.tex')
   try:
       data = handle.read()
