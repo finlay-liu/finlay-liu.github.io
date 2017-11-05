@@ -3,7 +3,7 @@ layout:     post
 title:      "Effective Python读书笔记"
 subtitle:   " \"Reading Effective Python\""
 date:       2017-11-2 20:10:00
-author:     "Hux"
+author:     "FinlayLiu"
 header-img: "img/post-bg-rwd.jpg"
 catalog: true
 tags:
