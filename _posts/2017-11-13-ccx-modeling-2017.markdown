@@ -4,7 +4,7 @@ title:      "中诚信征信比赛MOMO总结"
 subtitle:   " \"China Chengxin Credit Modeling Competition 2017\""
 date:       2017-11-13 23:30:00
 author:     "FinlayLiu"
-header-img: "img/post-bg-light.jpg"
+header-img: "img/post-bg-fly.jpg"
 catalog: true
 tags:
     - 数据挖掘
