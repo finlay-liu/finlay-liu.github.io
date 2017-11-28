@@ -3,7 +3,7 @@ layout:     post
 title:      "MXNet 定义新激活函数"
 subtitle:   " \"Mxnet define OP\""
 date:       2017-9-8 12:00:00
-author:     "Finaly"
+author:     "FinlayLiu"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
