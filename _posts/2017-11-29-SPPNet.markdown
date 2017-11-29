@@ -1,0 +1,48 @@
+---
+layout:     post
+title:      "DL物体检测之-SPPNet"
+subtitle:   " \"Object Detection Method: SPPNet\""
+date:       2017-11-29 13:30:00
+author:     "FinlayLiu"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - 深度学习
+---
+
+# 论文介绍
+
+论文SPPNet来自还在微软时代的何凯明老师，这篇工作在分类模型和物体检测问题上都有不错的结果，在ImageNet 2014取得第三名，物体检测第二名。论文的立意是解决神经网络需要固定输入的问题，采用对pooling层进行改进，加入图像特征金字塔的思路，让网络可以介绍任何大小的输出结果。
+![](/img/post/dl_sppnet1.png)
+
+# 论文内容
+
+## SPP-Pool
+
+引入SPP-Pool的介绍，在不同的特征视野进行pool。
+![](/img/post/dl_sppnet2.png)
+
+## SPP-Net for Detection
+
+利用Selected Search在图像上提取2000个proposal，但整张图片只跑一次特征提取，针对每个proposal利用SPP-Pool提取特征，然后使用SVM进行训练分类。
+![](/img/post/dl_sppnet3.png)
+
+# 论文创新点和问题
+
+SPP-Net算是何凯明对大规模分类和识别问题的一次尝试，虽然结果不错，但还是差强人意。在分类问题中，SPP-Net比GoogleNet、VGG差；在识别任务上，也并没有对RCNN的精度进行改进。
+
+对于分类问题：
+
+-  SPP-Net并没有复杂的网络结构，提取的特征难以有效；
+-  针对ImageNet分类数据，归一化大小后也可以得到不错的结果；
+
+对于识别问题：
+
+-  SPP-Net改变了提取特征的方法，进行了模型加速；
+-  SPP-Net可以针对不同的区域，提取有效的特征；
+
+# 论文评价
+
+针对不同的任务，需要从具体的数据集出发。图像分类任务，所用到的图像一般只包括一个物体，因此比较简单，是否需要使用SPP-Pool是个问题；针对物体识别任务，SPP-Net改善了原有的RCNN流程，为后来的发展提供了思路。
+
+物体检测的流程是框出物体，然后进行分类。此时SPP-Net还是使用传统方法得到proposal，此外由于SPP-Net在分类上效果并不是特别优秀，分类也有一些精度影响。因此此后的发展还是在于得到更好的proposal，和精度更好的分类网络。
