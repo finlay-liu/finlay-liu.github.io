@@ -3274,3 +3274,25 @@
     types:
       - "Speech Recognition"
       - "Classification"
+  -
+    competitionId: 7163
+    competitionTitle: "WSDM - KKBox's Churn Prediction Challenge"
+    competitionDescription: "Can you predict when subscribers will churn?"
+    competitionUrl: "/c/kkbox-churn-prediction-challenge"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/7163/logos/thumb76_76.png"
+    deadline: "2018-02-08T23:59:00Z"
+    totalTeams: 5169
+    totalKernels: 0
+    rewardQuantity: 2500
+    rewardTypeName: "USD"
+    organizationName: "null"
+    organizationUrl: "null"
+    hostSegment: "research"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$2,500"
+    evaluation: "Multi-class logarithmic loss (logloss)"
+    types:
+      - "Classification"
