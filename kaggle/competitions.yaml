@@ -12,7 +12,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -46,7 +46,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -69,7 +69,7 @@
     rewardTypeName: "USD"
     organizationName: "Allen Institute for Artificial Intelligence"
     organizationUrl: "allenai"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -96,7 +96,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -125,7 +125,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: true
     isPrivate: false
     isInClass: false
@@ -148,7 +148,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -171,7 +171,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -201,7 +201,7 @@
     rewardTypeName: "USD"
     organizationName: "NOAA Fisheries"
     organizationUrl: "https://www.nefsc.noaa.gov/psb/"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -231,7 +231,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -264,7 +264,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: true
     isPrivate: false
     isInClass: false
@@ -283,7 +283,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -302,7 +302,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -328,7 +328,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -354,7 +354,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -377,7 +377,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -403,7 +403,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -426,7 +426,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -445,7 +445,7 @@
     rewardTypeName: "USD"
     organizationName: "Avito"
     organizationUrl: "avitoru"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -475,7 +475,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -511,7 +511,7 @@
     rewardTypeName: "USD"
     organizationName: "Crowdflower"
     organizationUrl: "crowdflower"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -547,7 +547,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -570,7 +570,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -593,7 +593,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -612,7 +612,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -635,7 +635,7 @@
     rewardTypeName: "USD"
     organizationName: "Booz Allen Hamilton"
     organizationUrl: "BoozAllenHamilton"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -658,7 +658,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -681,7 +681,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -704,7 +704,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -723,7 +723,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -746,7 +746,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -769,7 +769,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -788,7 +788,7 @@
     rewardTypeName: "USD"
     organizationName: "Avito"
     organizationUrl: "avitoru"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -807,7 +807,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -845,7 +845,7 @@
     rewardTypeName: "USD"
     organizationName: "Allstate Insurance"
     organizationUrl: "allstate"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -864,7 +864,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -883,7 +883,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -921,7 +921,7 @@
     rewardTypeName: "USD"
     organizationName: "The MathWorks"
     organizationUrl: "mathworks"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -940,7 +940,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -978,7 +978,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1001,7 +1001,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1020,7 +1020,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1043,7 +1043,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1062,7 +1062,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1100,7 +1100,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1123,7 +1123,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1142,7 +1142,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1161,7 +1161,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1180,7 +1180,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1199,7 +1199,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1218,7 +1218,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1237,7 +1237,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1256,7 +1256,7 @@
     rewardTypeName: "USD"
     organizationName: "Adzuna"
     organizationUrl: "adzuna"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1275,7 +1275,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1294,7 +1294,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1313,7 +1313,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1332,7 +1332,7 @@
     rewardTypeName: "USD"
     organizationName: "Stack Overflow"
     organizationUrl: "stackoverflow"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1355,7 +1355,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1374,7 +1374,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1393,7 +1393,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1412,7 +1412,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1431,7 +1431,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1454,7 +1454,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1473,7 +1473,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1492,7 +1492,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1511,7 +1511,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1530,7 +1530,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1549,7 +1549,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1568,7 +1568,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1587,7 +1587,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1606,7 +1606,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1625,7 +1625,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1644,7 +1644,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1673,7 +1673,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1699,7 +1699,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1718,7 +1718,7 @@
     rewardTypeName: "USD"
     organizationName: "Allstate Insurance"
     organizationUrl: "allstate"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1741,7 +1741,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1773,7 +1773,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1802,7 +1802,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1831,7 +1831,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1850,7 +1850,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1873,7 +1873,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1896,7 +1896,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1925,7 +1925,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1951,7 +1951,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -1974,7 +1974,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2003,7 +2003,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2032,7 +2032,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2058,7 +2058,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2096,7 +2096,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2119,7 +2119,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2142,7 +2142,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2165,7 +2165,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2184,7 +2184,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2203,7 +2203,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2226,7 +2226,7 @@
     rewardTypeName: "USD"
     organizationName: "Banco Santander"
     organizationUrl: "santander"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2267,7 +2267,7 @@
     rewardTypeName: "USD"
     organizationName: "Bosch"
     organizationUrl: "bosch"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2307,7 +2307,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2340,7 +2340,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2373,7 +2373,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2406,7 +2406,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2432,7 +2432,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2466,7 +2466,7 @@
     rewardTypeName: "USD"
     organizationName: "Avito"
     organizationUrl: "avitoru"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2510,7 +2510,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2546,7 +2546,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2573,7 +2573,7 @@
     rewardTypeName: "USD"
     organizationName: "Banco Santander"
     organizationUrl: "santander"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2592,7 +2592,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2621,7 +2621,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2644,7 +2644,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2667,7 +2667,7 @@
     rewardTypeName: "USD"
     organizationName: "Booz Allen Hamilton"
     organizationUrl: "BoozAllenHamilton"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2690,7 +2690,7 @@
     rewardTypeName: "USD"
     organizationName: "Outbrain"
     organizationUrl: "outbrain"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2734,7 +2734,7 @@
     rewardTypeName: "USD"
     organizationName: "Defence Science & Technology Laboratory"
     organizationUrl: "dstl"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2774,7 +2774,7 @@
     rewardTypeName: "USD"
     organizationName: "Two Sigma"
     organizationUrl: "two-sigma"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2807,7 +2807,7 @@
     rewardTypeName: "USD"
     organizationName: null
     organizationUrl: null
-    hostSegment: "research"
+    hostSegment: "Research"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2861,7 +2861,7 @@
     rewardTypeName: "USD"
     organizationName: "NOAA"
     organizationUrl: "noaa"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2889,7 +2889,7 @@
     rewardTypeName: "USD"
     organizationName: "Intel"
     organizationUrl: "intel"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2919,7 +2919,7 @@
     rewardTypeName: "USD"
     organizationName: "Quora"
     organizationUrl: "quora"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2946,7 +2946,7 @@
     rewardTypeName: "USD"
     organizationName: "Google Cloud"
     organizationUrl: "google-cloud"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -2982,7 +2982,7 @@
     rewardTypeName: "USD"
     organizationName: "The Nature Conservancy"
     organizationUrl: "conserveca"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -3009,7 +3009,7 @@
     rewardTypeName: "USD"
     organizationName: "Instacart"
     organizationUrl: "instacart"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -3037,7 +3037,7 @@
     rewardTypeName: "USD"
     organizationName: "Planet"
     organizationUrl: "planet"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -3067,7 +3067,7 @@
     rewardTypeName: "USD"
     organizationName: "Daimler"
     organizationUrl: "daimler"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -3097,7 +3097,7 @@
     rewardTypeName: "USD"
     organizationName: "Sberbank"
     organizationUrl: "sberbank"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -3123,7 +3123,7 @@
     rewardTypeName: "USD"
     organizationName: "Porto Seguro"
     organizationUrl: "https://www.portoseguro.com.br/"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -3152,7 +3152,7 @@
     rewardTypeName: "USD"
     organizationName: "Mercari"
     organizationUrl: "null"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -3174,7 +3174,7 @@
     rewardTypeName: "USD"
     organizationName: "Statoil"
     organizationUrl: "null"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -3197,7 +3197,7 @@
     rewardTypeName: "USD"
     organizationName: "Cdiscount"
     organizationUrl: "null"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -3220,7 +3220,7 @@
     rewardTypeName: "USD"
     organizationName: "Corporación Favorita"
     organizationUrl: "http://www.corporacionfavorita.com/portal/es/web/favorita/inicio"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -3242,7 +3242,7 @@
     rewardTypeName: "USD"
     organizationName: "Recruit Holdings"
     organizationUrl: "http://www.recruit-rgf.com/"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -3264,7 +3264,7 @@
     rewardTypeName: "USD"
     organizationName: "Google Brain"
     organizationUrl: "https://g.co/brain"
-    hostSegment: "featured"
+    hostSegment: "Featured"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -3287,7 +3287,7 @@
     rewardTypeName: "USD"
     organizationName: "null"
     organizationUrl: "null"
-    hostSegment: "research"
+    hostSegment: "Research"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -3309,7 +3309,7 @@
     rewardTypeName: "USD"
     organizationName: "KKBOX"
     organizationUrl: "https://www.kkbox.com/intl/index.php?area=intl"
-    hostSegment: "research"
+    hostSegment: "Research"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -3332,7 +3332,7 @@
     rewardTypeName: "USD"
     organizationName: "Kaggle"
     organizationUrl: "https://www.kaggle.com/"
-    hostSegment: "playground"
+    hostSegment: "Playground"
     isLimited: false
     isPrivate: false
     isInClass: false
@@ -3354,13 +3354,36 @@
     rewardTypeName: "USD"
     organizationName: "Kaggle"
     organizationUrl: "https://www.kaggle.com/"
-    hostSegment: "playground"
+    hostSegment: "Playground"
     isLimited: false
     isPrivate: false
     isInClass: false
     userHasEntered: false
     rewardDisplay: "$0"
-    evaluation: " Micro-Averaged F1-score (MeanFScore)"
+    evaluation: "Micro-Averaged F1-score (MeanFScore)"
+    types:
+      - "Image processing"
+      - "Classification"
+  -
+    competitionId: 7327
+    competitionTitle: "Dog Breed Identification"
+    competitionDescription: "Determine the breed of a dog in an image"
+    competitionUrl: "/c/dog-breed-identification"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/7327/logos/thumb76_76.png"
+    deadline: "2018-02-27T23:59:00Z"
+    totalTeams: 5169
+    totalKernels: 0
+    rewardQuantity: 0
+    rewardTypeName: "USD"
+    organizationName: "Kaggle"
+    organizationUrl: "https://www.kaggle.com/"
+    hostSegment: "Playground"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$0"
+    evaluation: "Multi-class logarithmic loss (logloss)"
     types:
       - "Image processing"
       - "Classification"
