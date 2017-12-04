@@ -3145,7 +3145,7 @@
     competitionDescription: "Can you automatically suggest product prices to online sellers?"
     competitionUrl: "/c/mercari-price-suggestion-challenge#Prizes"
     thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/7559/logos/thumb76_76.png"
-    deadline: "2018-2-21T23:59:00Z"
+    deadline: "2018-02-21T23:59:00Z"
     totalTeams: 5169
     totalKernels: 0
     rewardQuantity: 60000
@@ -3161,3 +3161,26 @@
     evaluation: "Root Mean Squared Logarithmic Error(RMSLE)"
     types:
       - "Regression"
+  -
+    competitionId: 7380
+    competitionTitle: "Statoil/C-CORE Iceberg Classifier Challenge"
+    competitionDescription: "Ship or iceberg, can you decide from space?"
+    competitionUrl: "/c/statoil-iceberg-classifier-challenge"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/7380/logos/thumb76_76.png"
+    deadline: "2018-01-23T23:59:00Z"
+    totalTeams: 5169
+    totalKernels: 0
+    rewardQuantity: 25000
+    rewardTypeName: "USD"
+    organizationName: "Statoil"
+    organizationUrl: "null"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$25,000"
+    evaluation: "log loss"
+    types:
+      - "Image processing"
+      - "Classification"
