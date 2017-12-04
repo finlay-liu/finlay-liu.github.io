@@ -3341,3 +3341,26 @@
     evaluation: "Multi-class logarithmic loss (logloss)"
     types:
       - "Classification"
+  -
+    competitionId: 7880
+    competitionTitle: "Plant Seedlings Classification"
+    competitionDescription: "Determine the species of a seedling from an image"
+    competitionUrl: "/c/plant-seedlings-classification"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/7880/logos/thumb76_76.png"
+    deadline: "2018-03-13T23:59:00Z"
+    totalTeams: 5169
+    totalKernels: 0
+    rewardQuantity: 0
+    rewardTypeName: "USD"
+    organizationName: "Kaggle"
+    organizationUrl: "https://www.kaggle.com/"
+    hostSegment: "playground"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$0"
+    evaluation: " Micro-Averaged F1-score (MeanFScore)"
+    types:
+      - "Image processing"
+      - "Classification"
