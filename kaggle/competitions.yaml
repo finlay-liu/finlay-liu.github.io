@@ -3280,7 +3280,7 @@
     competitionDescription: "Can you predict when subscribers will churn?"
     competitionUrl: "/c/kkbox-churn-prediction-challenge"
     thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/7163/logos/thumb76_76.png"
-    deadline: "2018-02-08T23:59:00Z"
+    deadline: "2017-12-19T23:59:00Z"
     totalTeams: 5169
     totalKernels: 0
     rewardQuantity: 2500
@@ -3295,4 +3295,27 @@
     rewardDisplay: "$2,500"
     evaluation: "Multi-class logarithmic loss (logloss)"
     types:
+      - "Classification"
+  -
+    competitionId: 7162
+    competitionTitle: "WSDM - KKBox's Music Recommendation Challenge"
+    competitionDescription: "Can you build the best music recommendation system?"
+    competitionUrl: "/c/kkbox-music-recommendation-challenge"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/7162/logos/thumb76_76.png"
+    deadline: "2017-12-19T23:59:00Z"
+    totalTeams: 5169
+    totalKernels: 0
+    rewardQuantity: 2500
+    rewardTypeName: "USD"
+    organizationName: "KKBOX"
+    organizationUrl: "https://www.kkbox.com/intl/index.php?area=intl"
+    hostSegment: "research"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$2,500"
+    evaluation: "Area under the ROC curve (AUC)"
+    types:
+      - "Recommendation"
       - "Classification"
