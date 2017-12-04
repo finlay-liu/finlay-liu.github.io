@@ -3319,3 +3319,25 @@
     types:
       - "Recommendation"
       - "Classification"
+  -
+    competitionId: 7516
+    competitionTitle: "Spooky Author Identification"
+    competitionDescription: "Share code and discuss insights to identify horror authors from their writings"
+    competitionUrl: "/c/kkbox-music-recommendation-challenge"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/7516/logos/thumb76_76.png"
+    deadline: "2017-12-15T23:59:00Z"
+    totalTeams: 5169
+    totalKernels: 0
+    rewardQuantity: 20000
+    rewardTypeName: "USD"
+    organizationName: "Kaggle"
+    organizationUrl: "https://www.kaggle.com/"
+    hostSegment: "playground"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$20,000"
+    evaluation: "Multi-class logarithmic loss (logloss)"
+    types:
+      - "Classification"

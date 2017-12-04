@@ -73,6 +73,7 @@
                     <h4><a target="_blank" ng-href="https://www.kaggle.com{{competition.competitionUrl}}">{{competition.competitionTitle}}</a></h4>
                     <p>{{competition.competitionDescription}}</p>
                 </td>
+                <td>{{competition.hostSegment}}</td>
                 <td>{{competition.deadline | date:'yyyy-MM-dd'}}</td>
                 <td><span ng-repeat="type in competition.types">{{type}}{{$last ? '' : ', '}} </span></td>
                 <td>{{competition.evaluation}}</td>
