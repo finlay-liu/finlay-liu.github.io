@@ -3203,7 +3203,7 @@
     isInClass: false
     userHasEntered: false
     rewardDisplay: "$20,000"
-    evaluation: "Classification Accuracy (ACC)"
+    evaluation: "Multiclass Accuracy (ACC)"
     types:
       - "Image processing"
       - "Classification"
@@ -3251,3 +3251,26 @@
     evaluation: "Root Mean Squared Logarithmic Error (RMSLE)"
     types:
       - "Regression"
+  -
+    competitionId: 7634
+    competitionTitle: "TensorFlow Speech Recognition Challenge"
+    competitionDescription: "Can you build an algorithm that understands simple speech commands?"
+    competitionUrl: "/c/tensorflow-speech-recognition-challenge"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/7634/logos/thumb76_76.png"
+    deadline: "2018-01-16T23:59:00Z"
+    totalTeams: 5169
+    totalKernels: 0
+    rewardQuantity: 8000
+    rewardTypeName: "USD"
+    organizationName: "Google Brain"
+    organizationUrl: "https://g.co/brain"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$8,000"
+    evaluation: "Multiclass Accuracy (ACC)"
+    types:
+      - "Speech Recognition"
+      - "Classification"
