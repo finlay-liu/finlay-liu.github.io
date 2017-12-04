@@ -3180,7 +3180,30 @@
     isInClass: false
     userHasEntered: false
     rewardDisplay: "$25,000"
-    evaluation: "log loss"
+    evaluation: "Multi-class logarithmic loss (logloss)"
+    types:
+      - "Image processing"
+      - "Classification"
+  -
+    competitionId: 7115
+    competitionTitle: "Cdiscount’s Image Classification Challenge"
+    competitionDescription: "Categorize e-commerce photos"
+    competitionUrl: "/c/cdiscount-image-classification-challenge"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/7115/logos/thumb76_76.png"
+    deadline: "2017-12-14T23:59:00Z"
+    totalTeams: 5169
+    totalKernels: 0
+    rewardQuantity: 20000
+    rewardTypeName: "USD"
+    organizationName: "Cdiscount"
+    organizationUrl: "null"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$20,000"
+    evaluation: "Classification Accuracy (ACC)"
     types:
       - "Image processing"
       - "Classification"
