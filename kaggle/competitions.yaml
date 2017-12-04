@@ -3207,3 +3207,25 @@
     types:
       - "Image processing"
       - "Classification"
+  -
+    competitionId: 7391
+    competitionTitle: "Corporación Favorita Grocery Sales Forecasting"
+    competitionDescription: "Can you accurately predict sales for a large grocery chain?"
+    competitionUrl: "/c/favorita-grocery-sales-forecasting"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/7391/logos/thumb76_76.png"
+    deadline: "2018-01-15T23:59:00Z"
+    totalTeams: 5169
+    totalKernels: 0
+    rewardQuantity: 15000
+    rewardTypeName: "USD"
+    organizationName: "Corporación Favorita"
+    organizationUrl: "http://www.corporacionfavorita.com/portal/es/web/favorita/inicio"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$15,000"
+    evaluation: "Normalized Weighted Root Mean Squared Logarithmic Error (NWRMSLE)"
+    types:
+      - "Regression"
