@@ -3480,3 +3480,99 @@
       -
         label: "4th place solution"
         url: "https://www.kaggle.com/c/nyc-taxi-trip-duration/discussion/39553"
+  -
+    competitionId: 6927
+    competitionTitle: "Carvana Image Masking Challenge"
+    competitionDescription: "Automatically identify the boundaries of the car in an image"
+    competitionUrl: "/c/carvana-image-masking-challenge"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/6927/logos/thumb76_76.png"
+    deadline: "2017-09-27T23:59:00Z"
+    totalTeams: 5169
+    totalKernels: 0
+    rewardQuantity: 25000
+    rewardTypeName: "USD"
+    organizationName: "Carvana"
+    organizationUrl: "null"
+    hostSegment: "Featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$25,000"
+    evaluation: "Mean Dice Coefficient"
+    types:
+      - "Image processing"
+      - "Image segmentation"
+    solutions:
+      -
+        label: "3rd place solution"
+        url: "https://www.kaggle.com/c/carvana-image-masking-challenge/discussion/40199"
+      -
+        label: "5th place solution"
+        url: "https://www.kaggle.com/c/carvana-image-masking-challenge/discussion/40144"
+  -
+    competitionId: 7042
+    competitionTitle: "Text Normalization Challenge - English Language"
+    competitionDescription: "Convert English text from written expressions into spoken forms"
+    competitionUrl: "/c/text-normalization-challenge-english-language"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/7042/logos/thumb76_76.png"
+    deadline: "2017-11-20T23:59:00Z"
+    totalTeams: 5169
+    totalKernels: 0
+    rewardQuantity: 25000
+    rewardTypeName: "USD"
+    organizationName: "Google"
+    organizationUrl: "null"
+    hostSegment: "Research"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$25,000"
+    evaluation: "Sequence  Accuracy (ACC)"
+    types:
+        - "Text Normalization"
+        - "Natural Language Processing (NLP)"
+    solutions:
+      -
+        label: "4th place solution"
+        url: "https://www.kaggle.com/c/text-normalization-challenge-english-language/discussion/43963"
+      -
+        label: "19th place solution"
+        url: "https://www.kaggle.com/c/text-normalization-challenge-english-language/discussion/44049"
+      -
+        label: "21th place solution"
+        url: "https://www.kaggle.com/c/text-normalization-challenge-english-language/discussion/43901"
+  -
+    competitionId: 7043
+    competitionTitle: "Text Normalization Challenge - Russian Language"
+    competitionDescription: "Convert Russian text from written expressions into spoken forms"
+    competitionUrl: "/c/text-normalization-challenge-russian-language"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/7043/logos/thumb76_76.png"
+    deadline: "2017-11-20T23:59:00Z"
+    totalTeams: 5169
+    totalKernels: 0
+    rewardQuantity: 25000
+    rewardTypeName: "USD"
+    organizationName: "Google"
+    organizationUrl: "null"
+    hostSegment: "Research"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$25,000"
+    evaluation: "Sequence  Accuracy (ACC)"
+    types:
+        - "Text Normalization"
+        - "Natural Language Processing (NLP)"
+    solutions:
+      -
+        label: "2nd place solution"
+        url: "https://www.kaggle.com/c/text-normalization-challenge-russian-language/discussion/43917"
+      -
+        label: "3rd place solution"
+        url: "https://www.kaggle.com/c/text-normalization-challenge-russian-language/discussion/44034"
+      -
+        label: "6th place solution"
+        url: "https://www.kaggle.com/c/text-normalization-challenge-russian-language/discussion/43926"
