@@ -1650,6 +1650,9 @@
     isInClass: false
     userHasEntered: false
     rewardDisplay: "$5,000"
+    evaluation: "Sequence  Accuracy (ACC)"
+    types:
+        - "Classification"
     interviews:
       -
         label: "1st place winner"
@@ -3576,35 +3579,3 @@
       -
         label: "6th place solution"
         url: "https://www.kaggle.com/c/text-normalization-challenge-russian-language/discussion/43926"
-  -
-    competitionId: 2551
-    competitionTitle: "Give Me Some Credit"
-    competitionDescription: "Improve on the state of the art in credit scoring by predicting the probability that somebody will experience financial distress in the next two years."
-    competitionUrl: "/c/GiveMeSomeCredit/"
-    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2551/logos/thumb76_76.png"
-    deadline: "2011-12-16T23:59:00Z"
-    totalTeams: 5169
-    totalKernels: 0
-    rewardQuantity: 5000
-    rewardTypeName: "USD"
-    organizationName: ""
-    organizationUrl: "null"
-    hostSegment: ""
-    isLimited: false
-    isPrivate: false
-    isInClass: false
-    userHasEntered: false
-    rewardDisplay: "$5,000"
-    evaluation: "Area under the ROC curve (AUC)"
-    types:
-        - "Classification"
-    interviews:
-      -
-        label: "1st place winner"
-        url: "http://blog.kaggle.com/2012/01/03/the-perfect-storm-meet-the-winners-of-give-me-some-credit/#more-1621"
-      -
-        label: "2nd place winner"
-        url: "http://blog.kaggle.com/2011/12/21/score-xavier-conort-on-coming-second-in-give-me-some-credit/"
-      -
-        label: "3rd place winner"
-        url: "http://blog.kaggle.com/2011/12/20/credit-where-credits-due-joe-malicki-on-placing-third-in-give-me-some-credit-2/"
