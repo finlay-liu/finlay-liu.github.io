@@ -3579,3 +3579,25 @@
       -
         label: "6th place solution"
         url: "https://www.kaggle.com/c/text-normalization-challenge-russian-language/discussion/43926"
+  -
+    competitionId: 8011
+    competitionTitle: "Santa Gift Matching Challenge"
+    competitionDescription: "Down through the chimney with lots of toys..."
+    competitionUrl: "/c/santa-gift-matching"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/8011/logos/thumb76_76.png"
+    deadline: "2018-1-12T23:59:00Z"
+    totalTeams: 5169
+    totalKernels: 0
+    rewardQuantity: 25000
+    rewardTypeName: "USD"
+    organizationName: "Kaggle"
+    organizationUrl: "null"
+    hostSegment: "Featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$25,000"
+    evaluation: "Average Normalized Happiness"
+    types:
+        - "Classification"
