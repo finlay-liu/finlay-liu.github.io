@@ -3142,7 +3142,7 @@
       -
         label: "2nd place solution"
         url: "https://www.kaggle.com/c/porto-seguro-safe-driver-prediction/discussion/44558"
-     repositories:
+    repositories:
       -
         label: "2nd place solution"
         url: "https://github.com/kelelexu/kaggle-porto-seguro"
