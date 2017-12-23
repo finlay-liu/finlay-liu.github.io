@@ -3513,6 +3513,10 @@
       -
         label: "5th place solution"
         url: "https://www.kaggle.com/c/carvana-image-masking-challenge/discussion/40144"
+    interviews:
+      -
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2017/12/22/carvana-image-masking-first-place-interview/"
   -
     competitionId: 7042
     competitionTitle: "Text Normalization Challenge - English Language"
