@@ -3650,3 +3650,26 @@
     evaluation: "Root Mean Squared Logarithmic Error (RMSLE)"
     types:
         - "Regression"
+  -
+    competitionId: 8078
+    competitionTitle: "IEEE's Signal Processing Society - Camera Model Identification"
+    competitionDescription: "Identify from which camera an image was taken"
+    competitionUrl: "/c/sp-society-camera-model-identification"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/8078/logos/thumb76_76.png"
+    deadline: "2018-02-8T23:59:00Z"
+    totalTeams: 5169
+    totalKernels: 0
+    rewardQuantity: 25000
+    rewardTypeName: "USD"
+    organizationName: "null"
+    organizationUrl: "null"
+    hostSegment: "Featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$25,000"
+    evaluation: "Weighted Accuracy"
+    types:
+      - "Image processing"
+      - "Classification"
