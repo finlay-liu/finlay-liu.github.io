@@ -3673,3 +3673,49 @@
     types:
       - "Image processing"
       - "Classification"
+  -
+    competitionId: 8089
+    competitionTitle: "2018 Data Science Bowl"
+    competitionDescription: "Find the nuclei in divergent images to advance medical discovery"
+    competitionUrl: "/c/data-science-bowl-2018"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/8089/logos/thumb76_76.png"
+    deadline: "2018-04-16T23:59:00Z"
+    totalTeams: 5169
+    totalKernels: 0
+    rewardQuantity: 100000
+    rewardTypeName: "USD"
+    organizationName: "Booz Allen Hamilton"
+    organizationUrl: "null"
+    hostSegment: "Featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$100,000"
+    evaluation: "Intersection over union(IOU)"
+    types:
+      - "Image processing"
+      - "Image segmentation"
+  -
+    competitionId: 6961
+    competitionTitle: "Humpback Whale Identification Challenge"
+    competitionDescription: "Can you identify a whale by the picture of its fluke?"
+    competitionUrl: "/c/whale-categorization-playground"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/6961/logos/thumb76_76.png"
+    deadline: "2018-07-09T23:59:00Z"
+    totalTeams: 5169
+    totalKernels: 0
+    rewardQuantity: 0
+    rewardTypeName: "USD"
+    organizationName: "Kaggle"
+    organizationUrl: "null"
+    hostSegment: "Playground"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$0"
+    evaluation: " Mean Average Precision"
+    types:
+      - "Image processing"
+      - "Classification"
