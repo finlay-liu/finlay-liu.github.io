@@ -3164,6 +3164,16 @@
     evaluation: "Root Mean Squared Logarithmic Error (RMSLE)"
     types:
       - "Regression"
+    solutions:
+      -
+        label: "1st place solution"
+        url: "https://www.kaggle.com/c/mercari-price-suggestion-challenge/discussion/50256"
+      -
+        label: "3rd place solution"
+        url: "https://www.kaggle.com/c/mercari-price-suggestion-challenge/discussion/50272"
+      -
+        label: "6th place solution"
+        url: "https://www.kaggle.com/c/mercari-price-suggestion-challenge/discussion/50431"
   -
     competitionId: 7380
     competitionTitle: "Statoil/C-CORE Iceberg Classifier Challenge"
@@ -3187,6 +3197,16 @@
     types:
       - "Image processing"
       - "Classification"
+    solutions:
+      -
+        label: "1st place solution"
+        url: "https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/discussion/48241"
+      -
+        label: "2nd place solution"
+        url: "https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/discussion/48294"
+      -
+        label: "3rd place solution"
+        url: "https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/discussion/48207"
   -
     competitionId: 7115
     competitionTitle: "Cdiscount’s Image Classification Challenge"
@@ -3210,6 +3230,19 @@
     types:
       - "Image processing"
       - "Classification"
+    solutions:
+      -
+        label: "1st place solution"
+        url: "https://www.kaggle.com/c/cdiscount-image-classification-challenge/discussion/45863"
+      -
+        label: "5th place solution"
+        url: "https://www.kaggle.com/c/cdiscount-image-classification-challenge/discussion/45733"
+      -
+        label: "7th place solution"
+        url: "https://www.kaggle.com/c/cdiscount-image-classification-challenge/discussion/45737"
+      -
+        label: "12th place solution"
+        url: "https://www.kaggle.com/c/cdiscount-image-classification-challenge/discussion/45798"
   -
     competitionId: 7391
     competitionTitle: "Corporación Favorita Grocery Sales Forecasting"
@@ -3232,6 +3265,19 @@
     evaluation: "Normalized Weighted Root Mean Squared Logarithmic Error (NWRMSLE)"
     types:
       - "Regression"
+    solutions:
+      -
+        label: "1st place solution"
+        url: "https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47582"
+      -
+        label: "2nd place solution"
+        url: "https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47568"
+      -
+        label: "3rd place solution"
+        url: "https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47560"
+      -
+        label: "Top Solutions"
+        url: "https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47544"
   -
     competitionId: 7277
     competitionTitle: "Recruit Restaurant Visitor Forecasting"
@@ -3254,6 +3300,13 @@
     evaluation: "Root Mean Squared Logarithmic Error (RMSLE)"
     types:
       - "Regression"
+    solutions:
+      -
+        label: "1st place solution"
+        url: "https://www.kaggle.com/pureheart/1st-place-lgb-model-public-0-470-private-0-502/code"
+      -
+        label: "7th place solution"
+        url: "https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting/discussion/49259"
   -
     competitionId: 7634
     competitionTitle: "TensorFlow Speech Recognition Challenge"
@@ -3277,6 +3330,19 @@
     types:
       - "Speech Recognition"
       - "Classification"
+    solutions:
+      -
+        label: "1st place solution"
+        url: "https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/discussion/46945"
+      -
+        label: "2nd place solution"
+        url: "https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/discussion/47715"
+      -
+        label: "3rd place solution"
+        url: "https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/discussion/47722"
+      -
+        label: "4th place solution"
+        url: "https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/discussion/47674"
   -
     competitionId: 7163
     competitionTitle: "WSDM - KKBox's Churn Prediction Challenge"
@@ -3322,11 +3388,15 @@
     types:
       - "Recommendation"
       - "Classification"
+    solutions:
+      -
+        label: "3rd place solution"
+        url: "https://www.kaggle.com/c/kkbox-music-recommendation-challenge/discussion/45971"
   -
     competitionId: 7516
     competitionTitle: "Spooky Author Identification"
     competitionDescription: "Share code and discuss insights to identify horror authors from their writings"
-    competitionUrl: "/c/kkbox-music-recommendation-challenge"
+    competitionUrl: "/c/spooky-author-identification"
     thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/7516/logos/thumb76_76.png"
     deadline: "2017-12-15T23:59:00Z"
     totalTeams: 5169
@@ -3605,6 +3675,16 @@
     evaluation: "Average Normalized Happiness"
     types:
         - "Classification"
+    solutions:
+      -
+        label: "1st place solution"
+        url: "https://www.kaggle.com/c/santa-gift-matching/discussion/47376"
+      -
+        label: "2nd place solution"
+        url: "https://www.kaggle.com/c/santa-gift-matching/discussion/47386"
+      -
+        label: "3rd place solution"
+        url: "https://www.kaggle.com/c/santa-gift-matching/discussion/47374"
   -
     competitionId: 8076
     competitionTitle: "Toxic Comment Classification Challenge"
@@ -3650,6 +3730,13 @@
     evaluation: "Root Mean Squared Logarithmic Error (RMSLE)"
     types:
         - "Regression"
+    solutions:
+      -
+        label: "5th place solution"
+        url: "https://www.kaggle.com/c/nomad2018-predict-transparent-conductors/discussion/49903"
+      -
+        label: "9th place solution"
+        url: "https://www.kaggle.com/c/nomad2018-predict-transparent-conductors/discussion/49905"
   -
     competitionId: 8078
     competitionTitle: "IEEE's Signal Processing Society - Camera Model Identification"
@@ -3673,6 +3760,22 @@
     types:
       - "Image processing"
       - "Classification"
+    solutions:
+      -
+        label: "1st place solution"
+        url: "https://www.kaggle.com/c/sp-society-camera-model-identification/discussion/49367"
+      -
+        label: "2nd place solution"
+        url: "https://www.kaggle.com/c/sp-society-camera-model-identification/discussion/49299"
+      -
+        label: "3rd place solution"
+        url: "https://www.kaggle.com/c/sp-society-camera-model-identification/discussion/49602"
+      -
+        label: "4th place solution"
+        url: "https://www.kaggle.com/c/sp-society-camera-model-identification/discussion/49298"
+      -
+        label: "5th place solution"
+        url: "https://www.kaggle.com/c/sp-society-camera-model-identification/discussion/49334"
   -
     competitionId: 8089
     competitionTitle: "2018 Data Science Bowl"
@@ -3719,3 +3822,205 @@
     types:
       - "Image processing"
       - "Classification"
+  -
+    competitionId: 8587
+    competitionTitle: "Predict Future Sales"
+    competitionDescription: "Final project for \"How to win a data science competition\" Coursera course"
+    competitionUrl: "/c/competitive-data-science-predict-future-sales/"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/8587/logos/thumb76_76.png"
+    deadline: "2019-01-02T23:59:00Z"
+    totalTeams: 5169
+    totalKernels: 0
+    rewardQuantity: 0
+    rewardTypeName: "USD"
+    organizationName: "Kaggle"
+    organizationUrl: "null"
+    hostSegment: "Playground"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$0"
+    evaluation: "RMSE"
+    types:
+        - "Regression"
+  -
+    competitionId: 8243
+    competitionTitle: "iNaturalist Challenge at FGVC5"
+    competitionDescription: "Long tailed classification challenge spanning 8,000 species."
+    competitionUrl: "/c/inaturalist-2018/"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/8243/logos/thumb76_76.png"
+    deadline: "2018-06-04T23:59:00Z"
+    totalTeams: 5169
+    totalKernels: 0
+    rewardQuantity: 0
+    rewardTypeName: "USD"
+    organizationName: "Kaggle"
+    organizationUrl: "null"
+    hostSegment: "Research"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$0"
+    evaluation: "Top 3"
+    types:
+      - "Image processing"
+      - "Classification"
+  -
+    competitionId: 8220
+    competitionTitle: "iMaterialist Challenge (Furniture) at FGVC5"
+    competitionDescription: "Image Classification of Furniture & Home Goods."
+    competitionUrl: "/c/imaterialist-challenge-furniture-2018"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/8220/logos/thumb76_76.png"
+    deadline: "2018-05-31T23:59:00Z"
+    totalTeams: 5169
+    totalKernels: 0
+    rewardQuantity: 2500
+    rewardTypeName: "USD"
+    organizationName: "Kaggle"
+    organizationUrl: "null"
+    hostSegment: "Research"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$2,500"
+    evaluation: "Mean Error"
+    types:
+      - "Image processing"
+      - "Classification"
+  -
+    competitionId: 8396
+    competitionTitle: "Google Landmark Retrieval Challenge"
+    competitionDescription: "Given an image, can you find all of the same landmarks in a dataset?"
+    competitionUrl: "/c/landmark-retrieval-challenge"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/8396/logos/thumb76_76.png"
+    deadline: "2018-05-23T23:59:00Z"
+    totalTeams: 5169
+    totalKernels: 0
+    rewardQuantity: 2500
+    rewardTypeName: "USD"
+    organizationName: "Google"
+    organizationUrl: "null"
+    hostSegment: "Research"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$2,500"
+    evaluation: "Mean Average Precision(mAP@100)"
+    types:
+      - "Image processing"
+      - "Image retrieval"
+  -
+    competitionId: 7456
+    competitionTitle: "Google Landmark Recognition Challenge"
+    competitionDescription: "Label famous (and not-so-famous) landmarks in images"
+    competitionUrl: "/c/landmark-recognition-challenge"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/7456/logos/thumb76_76.png"
+    deadline: "2018-05-23T23:59:00Z"
+    totalTeams: 5169
+    totalKernels: 0
+    rewardQuantity: 2500
+    rewardTypeName: "USD"
+    organizationName: "Google"
+    organizationUrl: "null"
+    hostSegment: "Research"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$2,500"
+    evaluation: "Global Average Precision (GAP)"
+    types:
+      - "Image processing"
+      - "Image recognition"
+  -
+    competitionId: 8540
+    competitionTitle: "TalkingData AdTracking Fraud Detection Challenge"
+    competitionDescription: "Can you detect fraudulent click traffic for mobile app ads?"
+    competitionUrl: "/c/talkingdata-adtracking-fraud-detection"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/8540/logos/thumb76_76.png"
+    deadline: "2018-05-08T23:59:00Z"
+    totalTeams: 5169
+    totalKernels: 0
+    rewardQuantity: 25000
+    rewardTypeName: "USD"
+    organizationName: "TalkingData"
+    organizationUrl: "null"
+    hostSegment: "Featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$25,000"
+    evaluation: "Area under the ROC curve (AUC)"
+    types:
+        - "Classification"
+  -
+    competitionId: 8426
+    competitionTitle: "DonorsChoose.org Application Screening"
+    competitionDescription: "Predict whether teachers' project proposals are accepted"
+    competitionUrl: "/c/donorschoose-application-screening/"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/8426/logos/thumb76_76.png"
+    deadline: "2018-04-26T23:59:00Z"
+    totalTeams: 5169
+    totalKernels: 0
+    rewardQuantity: 0
+    rewardTypeName: "USD"
+    organizationName: "DonorsChoose.org"
+    organizationUrl: "null"
+    hostSegment: "Playground"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$0"
+    evaluation: "Area under the ROC curve (AUC)"
+    types:
+        - "Classification"
+  -
+    competitionId: 8310
+    competitionTitle: "Google Cloud & NCAA® ML Competition 2018-Men's"
+    competitionDescription: "Apply Machine Learning to NCAA® March Madness®"
+    competitionUrl: "/c/mens-machine-learning-competition-2018/"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/8310/logos/thumb76_76.png"
+    deadline: "2018-04-03T23:59:00Z"
+    totalTeams: 5169
+    totalKernels: 0
+    rewardQuantity: 50000
+    rewardTypeName: "USD"
+    organizationName: "Google Cloud"
+    organizationUrl: "null"
+    hostSegment: "Featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$50,000"
+    evaluation: "LogLoss"
+    types:
+        - "Classification"
+  -
+    competitionId: 8310
+    competitionTitle: "Google Cloud & NCAA® ML Competition 2018-Women's"
+    competitionDescription: "Apply Machine Learning to NCAA® March Madness®"
+    competitionUrl: "/c/mens-machine-learning-competition-2018/"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/8310/logos/thumb76_76.png"
+    deadline: "2018-04-02T23:59:00Z"
+    totalTeams: 5169
+    totalKernels: 0
+    rewardQuantity: 50000
+    rewardTypeName: "USD"
+    organizationName: "Google Cloud"
+    organizationUrl: "null"
+    hostSegment: "Featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$50,000"
+    evaluation: "LogLoss"
+    types:
+        - "Classification"
