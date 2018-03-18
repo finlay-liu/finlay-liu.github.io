@@ -4024,3 +4024,36 @@
     evaluation: "LogLoss"
     types:
         - "Classification"
+  -
+    competitionId: 3934
+    competitionTitle: "Display Advertising Challenge"
+    competitionDescription: "Predict click-through rates on display ads"
+    competitionUrl: "/c/criteo-display-ad-challenge/"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3934/logos/thumb76_76.png"
+    deadline: "2014-09-24T23:59:00Z"
+    totalTeams: 5169
+    totalKernels: 0
+    rewardQuantity: 16000
+    rewardTypeName: "USD"
+    organizationName: "null"
+    organizationUrl: "null"
+    hostSegment: "Featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$16,000"
+    evaluation: "LogLoss"
+    types:
+      - "Classification"
+      - "Click-Through-Rate(CTR)"
+    solutions:
+      -
+        label: "1st place solution"
+        url: "https://www.kaggle.com/c/criteo-display-ad-challenge/discussion/10555"
+      -
+        label: "3rd place solution"
+        url: "https://www.kaggle.com/c/criteo-display-ad-challenge/discussion/10547"
+      -
+        label: "4th place solution"
+        url: "https://www.kaggle.com/c/criteo-display-ad-challenge/discussion/10534"
